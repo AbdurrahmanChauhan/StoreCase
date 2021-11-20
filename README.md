@@ -7,15 +7,15 @@
 
   IEEE Research Papers:-
   
-  ![Research Papers](https://ieeexplore.ieee.org/document/5478077/figures#figures)
+  [https://ieeexplore.ieee.org/document/5478077/figures#figures](https://ieeexplore.ieee.org/document/5478077/figures#figures)
                  
   Refered GitHub Repo:- 
   
-  ![Reporsitory](https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf)
+  [https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf](https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf)
                        
   Java Project Tutorial Playlist:- 
   
-  ![Playlist](https://www.youtube.com/playlist?list=PL5BFcXE899zxmT9vmSuleorXKrxjOOErp)
+  [https://www.youtube.com/playlist?list=PL5BFcXE899zxmT9vmSuleorXKrxjOOErp](https://www.youtube.com/playlist?list=PL5BFcXE899zxmT9vmSuleorXKrxjOOErp)
 
 # Sign Up :
        
