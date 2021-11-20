@@ -4,11 +4,18 @@
      2) It enable the store owners to manage their stocks
      
      3) Tech Stack :- IntelliJ IDE .. Java .. MySQL .. Swing.
-     
-     4) References :-
-                      1) IEEE Research Papers :- [Research Papers](https://ieeexplore.ieee.org/document/5478077/figures#figures)
-                      2) Refernce GitHub Repo :- [Reporsitory](https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf)
-                      3) Youtube Video For Guidance :- [Playlist](https://www.youtube.com/playlist?list=PL5BFcXE899zxmT9vmSuleorXKrxjOOErp)
+
+  IEEE Research Papers:-
+  
+  ![Research Papers](https://ieeexplore.ieee.org/document/5478077/figures#figures)
+                 
+  Refered GitHub Repo:- 
+  
+  ![Reporsitory](https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf)
+                       
+  Java Project Tutorial Playlist:- 
+  
+  ![Playlist](https://www.youtube.com/playlist?list=PL5BFcXE899zxmT9vmSuleorXKrxjOOErp)
 
 # Sign Up :
        
