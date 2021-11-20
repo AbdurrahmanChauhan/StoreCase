@@ -4,19 +4,7 @@
      2) It enable the store owners to manage their stocks
      
      3) Tech Stack :- IntelliJ IDE .. Java .. MySQL .. Swing.
-
-  IEEE Research Papers:-
-  
-  [https://ieeexplore.ieee.org/document/5478077/figures#figures](https://ieeexplore.ieee.org/document/5478077/figures#figures)
-                 
-  Refered GitHub Repo:- 
-  
-  [https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf](https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf)
-                       
-  Java Project Tutorial Playlist:- 
-  
-  [https://www.youtube.com/playlist?list=PL5BFcXE899zxmT9vmSuleorXKrxjOOErp](https://www.youtube.com/playlist?list=PL5BFcXE899zxmT9vmSuleorXKrxjOOErp)
-
+     
 # Sign Up :
        
 ![Screenshot (359)](https://user-images.githubusercontent.com/79002770/142729028-c8efad9b-1fe5-4521-b752-bbe6bd01169d.png)
@@ -60,4 +48,18 @@
    Sales Report :
    
    ![Screenshot (365)](https://user-images.githubusercontent.com/79002770/142729598-02ac71a8-ab6c-4399-be32-1c4356100eaf.png)
+ 
+
+  IEEE Research Papers:-
+  
+  [https://ieeexplore.ieee.org/document/5478077/figures#figures](https://ieeexplore.ieee.org/document/5478077/figures#figures)
+                 
+  Refered GitHub Repo:- 
+  
+  [https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf](https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf)
+                       
+  Java Project Tutorial Playlist:- 
+  
+  [https://www.youtube.com/playlist?list=PL5BFcXE899zxmT9vmSuleorXKrxjOOErp](https://www.youtube.com/playlist?list=PL5BFcXE899zxmT9vmSuleorXKrxjOOErp)
+
  
