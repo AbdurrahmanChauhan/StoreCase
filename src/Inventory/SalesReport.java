@@ -86,7 +86,7 @@ public class SalesReport extends JFrame implements ActionListener{
         JScrollPane jsp = new JScrollPane(ta1);
         ta1.setFont(new Font("Sanserif",Font.ITALIC,18));
 
-        b1 = new JButton("Generate Report");
+        b1 = new JButton("Generate Invoice");
 
         add(p1,"North");
 
