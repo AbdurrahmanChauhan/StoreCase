@@ -1,5 +1,7 @@
 create database inventory;
 
+use inventory;
+
 create table customers(cid int not null primary key auto_increment, customercode varchar(100) not null, fullname varchar(50) not null, location varchar(50) not null, phone varchar(50) not null, userid int not null);
 
 create table products (pid int not null primary key auto_increment, productcode varchar(100) not null, costprice double not null, sellingprice double not null, brand varchar(50) not null, category varchar(30) not null,userid int not null);
@@ -26,4 +28,4 @@ alter table suppliers auto_increment = 1001;
 
 alter table users auto_increment = 100;
 
-INSERT INTO `pbl_inventory`.`users` (`fullname`, `location`, `phone`, `username`, `password`, `category`, `shop_no`, `email`, `center`) VALUES ('Admin', 'Mumbai', '1234567890', 'ABD', '12345', 'Administrator', '0', 'Mumbai');
+INSERT INTO `pbl_inventory`.`users` (`fullname`, `location`, `phone`, `username`, `password`, `category`, `shop_no`, `email`, `center`) VALUES ('Admin_name', 'Mumbai', '1234567890', 'Admin', '12345', 'Administrator', '0','xyz@gmail.com', 'Mumbai');
